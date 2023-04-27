@@ -1,5 +1,5 @@
 h1{
-    background: rgb(255, 193, 78);
+    background-color:lightseagreen;
     font: bold;
     color: lightcyan;
 }
@@ -8,7 +8,3 @@ h2{
     font: bold;
     color: coral;
 }
-
-.resumen { text-align: justify }
-span.inicio { font-weight: bold;
-color: darkmagenta }
